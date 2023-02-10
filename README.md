@@ -1,0 +1,2 @@
+# Automatizacio
+Automatizációs projekt 
